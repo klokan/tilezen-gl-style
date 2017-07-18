@@ -5,7 +5,7 @@
     "tilezen": {
       "type": "vector",
       "tiles": [
-        "http://tile.mapzen.com/mapzen/vector/v1/all/{z}/{x}/{y}.mvt?api_key=mapzen-Wg7FqZX"
+        "https://tile.mapzen.com/mapzen/vector/v1/all/{z}/{x}/{y}.mvt?api_key=mapzen-Wg7FqZX"
       ]
     }
   },
